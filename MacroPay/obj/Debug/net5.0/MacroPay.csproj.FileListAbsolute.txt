@@ -1,0 +1,111 @@
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\appsettings.json
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.exe
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.deps.json
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.runtimeconfig.json
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.runtimeconfig.dev.json
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\ref\MacroPay.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.pdb
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.AssemblyInfo.cs
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\staticwebassets\MacroPay.StaticWebAssets.Manifest.cache
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\staticwebassets\MacroPay.StaticWebAssets.xml
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\scopedcss\bundle\MacroPay.styles.css
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.RazorTargetAssemblyInfo.cache
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.CopyComplete
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\ref\MacroPay.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.pdb
+C:\Users\mario\source\repos\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.genruntimeconfig.cache
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\mario\source\repos\MacroPay\MacroPay\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.AssemblyReference.cache
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.AssemblyInfoInputs.cache
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.AssemblyInfo.cs
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.CoreCompileInputs.cache
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.pdb
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\appsettings.json
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.StaticWebAssets.xml
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.exe
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.deps.json
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.runtimeconfig.json
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.runtimeconfig.dev.json
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.pdb
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\scopedcss\bundle\MacroPay.styles.css
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\staticwebassets\MacroPay.StaticWebAssets.Manifest.cache
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.RazorTargetAssemblyInfo.cache
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.CopyComplete
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\refint\MacroPay.dll
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.genruntimeconfig.cache
+C:\Users\cmoo\Downloads\MacroPay\MacroPay\obj\Debug\net5.0\ref\MacroPay.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\appsettings.json
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.exe
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.deps.json
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.runtimeconfig.json
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.runtimeconfig.dev.json
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\ref\MacroPay.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\MacroPay.pdb
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.AssemblyReference.cache
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.AssemblyInfoInputs.cache
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.AssemblyInfo.cs
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.CoreCompileInputs.cache
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\staticwebassets\MacroPay.StaticWebAssets.Manifest.cache
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\staticwebassets\MacroPay.StaticWebAssets.xml
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\scopedcss\bundle\MacroPay.styles.css
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.RazorTargetAssemblyInfo.cache
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.csproj.CopyComplete
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\ref\MacroPay.dll
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.pdb
+C:\Users\Mario German\Documents\Mario\Documentación personal\Personal\MacroPay\MacroPay\obj\Debug\net5.0\MacroPay.genruntimeconfig.cache
